@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
   
-<img align='right' src="https://media.giphy.com/media/YmunwAcgeZJaH49CrT/giphy.gif" width="150">
+<img align='right' src="" width="150">
 
  
  
@@ -23,7 +23,5 @@
 4. Installation: `npm install`
 5. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-![image](https://user-images.githubusercontent.com/72945788/172015442-2a41c2a2-819f-41db-9971-9220e6c6ec98.png)
+
   

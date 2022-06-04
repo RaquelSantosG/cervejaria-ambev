@@ -1,4 +1,4 @@
-<h1 align="center">🛸Olá, bem vindo(a)! </h1>
+<h1 align="center">Olá, bem vindo(a)! </h1>
 <h1 align="center">🐝Desafio de entrevista front-end do BEES </h1>
  
 
@@ -7,12 +7,10 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-<br>
+  
+<img align='right' src="https://media.giphy.com/media/YmunwAcgeZJaH49CrT/giphy.gif" width="150">
 
-
- <img align='right' src="https://media.giphy.com/media/YmunwAcgeZJaH49CrT/giphy.gif" width="150">
+ 
  
  
  

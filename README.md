@@ -8,7 +8,8 @@
 
 <div style="display: inline_block"><br>
   
-<img align='right' src="" width="150">
+<img align='right' src="https://media.giphy.com/media/5b7mDzTcVN3IblMwZI/giphy.gif" width="150">
+
 
  
  
